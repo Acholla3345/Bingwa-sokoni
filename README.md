@@ -1,2 +1,2 @@
-# Bingwa-sokoni
+# bingwa-sokoni
 Acholla bingwa sokoni services 
